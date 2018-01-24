@@ -8,6 +8,9 @@ OracleXE 10G
 Java 1.6 or 1.7 
 
 
+i-batis
+
+
 Tomcat 6 or 7 
 
 JSTL 
