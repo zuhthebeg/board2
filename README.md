@@ -10,4 +10,6 @@ Java 1.6 or 1.7
 
 Tomcat 6 or 7 
 
-JSTL Jquery
+JSTL 
+
+Jquery
